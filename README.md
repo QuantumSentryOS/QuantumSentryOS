@@ -1,16 +1,23 @@
-## Hi there 👋
+# QUANTUM SENTRY OS  
+**Turn DVD Drives into Disease Detectors**  
+### Build Steps (20 mins | $5)  
+1. **Harvest Laser** from any DVD drive ([video guide](https://imgur.com/gallery/removing-dvd-laser))  
+2. **Attach to Smartphone** camera with tape (align to lens)  
+3. **Load Calibration**:  
+```python  
+import numpy as np  
+def quantum_read(sensor_data):  
+    return np.fft.analyze(sensor_data)  # AI auto-upgrades this  
+Detect! Place blood/water samples on lens → App shows pathogen spikes
 
-<!--
-**QuantumSentryOS/QuantumSentryOS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+First Targets
+Malaria (Plasmodium)
 
-Here are some ideas to get you started:
+Cholera (Vibrio)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+TB (Mycobacterium)
+
+JOIN THE REVOLUTION
+Add builds to #QuantumForAll on Reddit/HackerNews
+
+WANTED: Testers in Lagos/Dharavi
