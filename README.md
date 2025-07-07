@@ -3,7 +3,10 @@
 ### Build Steps (20 mins | $5)  
 1. **Harvest Laser** from any DVD drive  
 2. **Attach to Smartphone** camera with tape (align to lens)  
-3. **Load Calibration**:  
+3. **Load Calibration**:
+
+![DVD-to-Detector Proof](dvd_hack.jpg) 
+   
 ```python  
 import numpy as np  
 def quantum_read(sensor_data):  
