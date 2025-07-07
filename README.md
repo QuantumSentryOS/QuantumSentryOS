@@ -1,7 +1,7 @@
 # QUANTUM SENTRY OS  
 **Turn DVD Drives into Disease Detectors**  
 ### Build Steps (20 mins | $5)  
-1. **Harvest Laser** from any DVD drive ([video guide](https://imgur.com/gallery/removing-dvd-laser))  
+1. **Harvest Laser** from any DVD drive  
 2. **Attach to Smartphone** camera with tape (align to lens)  
 3. **Load Calibration**:  
 ```python  
