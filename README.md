@@ -24,3 +24,7 @@ JOIN THE REVOLUTION
 Add builds to #QuantumForAll on Reddit/HackerNews
 
 WANTED: Testers in Lagos/Dharavi
+
+## IF THIS REPO IS DELETED:  
+- All schematics auto-upload to [The Pirate Bay](https://thepiratebay.org)  
+- Build guides broadcast via numbers station **104.7 FM**  
