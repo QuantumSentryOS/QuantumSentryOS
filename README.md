@@ -4,8 +4,7 @@
 1. **Harvest Laser** from any DVD drive  
 2. **Attach to Smartphone** camera with tape (align to lens)  
 3. **Load Calibration**:
-
-![DVD-to-Detector Proof](dvd_hack.jpg) 
+ 
    
 ```python  
 import numpy as np  
